@@ -11,10 +11,10 @@ dependencies:
   cupertino_icons: ^1.0.2
 
   # detect if has internet
-  connectivity: ^2.0.2
+  connectivity: ^3.0.6
 
   # show top snackbar
-  overlay_support: ^1.0.5
+  overlay_support: ^1.2.1
 
 dev_dependencies:
   flutter_test:
